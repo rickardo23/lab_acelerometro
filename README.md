@@ -1,0 +1,2 @@
+# lab_acelerometro
+practica 
